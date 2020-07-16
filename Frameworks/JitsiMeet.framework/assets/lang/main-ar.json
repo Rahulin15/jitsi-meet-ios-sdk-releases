@@ -277,7 +277,8 @@
         "WaitForHostMsgWOk": "",
         "WaitingForHost": "",
         "Yes": "",
-        "yourEntireScreen": ""
+        "yourEntireScreen": "",
+        "teacherWillLaunch":"سيبدأ المعلم البث المباشر قريبًا ..."
     },
     "dialOut": {
         "statusMessage": ""
@@ -674,7 +675,8 @@
         "toggleCamera": "",
         "videomute": "",
         "startvideoblur": "تعتيم خلفيتي",
-        "stopvideoblur": "إلغاء عتمة الخلفية"
+        "stopvideoblur": "إلغاء عتمة الخلفية",
+        "endSession":"هل أنت متأكد أنك تريد إنهاء الجلسة للجميع؟"
     },
     "transcribing": {
         "ccButtonTooltip": "",
