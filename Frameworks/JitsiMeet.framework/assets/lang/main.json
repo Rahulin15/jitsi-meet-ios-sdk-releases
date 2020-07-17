@@ -307,7 +307,10 @@
         "WaitingForHost": "Waiting for the host ...",
         "Yes": "Yes",
         "yourEntireScreen": "Your entire screen",
-        "teacherWillLaunch": "Teacher will launch the live soon..."
+        "teacherWillLaunch": "Teacher will soon launch the live",
+        "remainingSessionTime": "Session will end in {{time}}",
+        "sessionTerminatedByTeacher": "Session ended by Teacher",
+        "sessionEnded":"Session ended"
     },
     "dialOut": {
         "statusMessage": "is now {{status}}"

@@ -278,7 +278,10 @@
         "WaitingForHost": "",
         "Yes": "",
         "yourEntireScreen": "",
-        "teacherWillLaunch":"سيبدأ المعلم البث المباشر قريبًا ..."
+        "teacherWillLaunch": "سيقوم المدرس بإطلاق البث المباشر قريبًا",
+        "remainingSessionTime": " تنتهي الجلسة في {{time}}",
+        "sessionTerminatedByTeacher": "تم إنهاء جلسة العمل من قبل المعلم",
+        "sessionEnded": "تم إنهاء جلسة العمل"
     },
     "dialOut": {
         "statusMessage": ""
@@ -676,7 +679,7 @@
         "videomute": "",
         "startvideoblur": "تعتيم خلفيتي",
         "stopvideoblur": "إلغاء عتمة الخلفية",
-        "endSession":"هل أنت متأكد أنك تريد إنهاء الجلسة للجميع؟"
+        "endSession": "هل أنت متأكد أنك تريد إنهاء الجلسة للجميع؟"
     },
     "transcribing": {
         "ccButtonTooltip": "",
