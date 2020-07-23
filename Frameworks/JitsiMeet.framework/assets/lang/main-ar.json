@@ -281,7 +281,8 @@
         "teacherWillLaunch": "سيقوم المدرس بإطلاق البث المباشر قريبًا",
         "remainingSessionTime": " تنتهي الجلسة في {{time}}",
         "sessionTerminatedByTeacher": "تم إنهاء جلسة العمل من قبل المعلم",
-        "sessionEnded": "تم إنهاء جلسة العمل"
+        "sessionEnded": "تم إنهاء جلسة العمل",
+        "sessionCancelled":"تم إلغاء جلسة العمل"
     },
     "dialOut": {
         "statusMessage": ""

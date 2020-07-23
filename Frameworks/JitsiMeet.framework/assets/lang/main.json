@@ -310,7 +310,8 @@
         "teacherWillLaunch": "Teacher will soon launch the live",
         "remainingSessionTime": "Session will end in {{time}}",
         "sessionTerminatedByTeacher": "Session ended by Teacher",
-        "sessionEnded":"Session ended"
+        "sessionEnded": "Session ended",
+        "sessionCancelled": "Session cancelled"
     },
     "dialOut": {
         "statusMessage": "is now {{status}}"
