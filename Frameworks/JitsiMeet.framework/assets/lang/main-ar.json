@@ -279,7 +279,7 @@
         "Yes": "",
         "yourEntireScreen": "",
         "teacherWillLaunch": "سيبدأ المدرس قريباَ في البث",
-        "remainingSessionTime": "الوقت المتبقي لإنتهاء المكالمة {time}",
+        "remainingSessionTime": "الوقت المتبقي لإنتهاء المكالمة {{time}}",
         "sessionTerminatedByTeacher": "تم انهاء المكالمة من قِبل المدرس",
         "sessionEnded": "انتهت المحاثة",
         "sessionCancelled": "تم الغاء المكالمة "
