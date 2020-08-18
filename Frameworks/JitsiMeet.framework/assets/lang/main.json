@@ -866,7 +866,8 @@
     },
     "lonelyMeetingExperience": {
         "button": "Invite others",
-        "youAreAlone": "You are the only one in the meeting"
+        "youAreAlone": "You are the only one in the meeting",
+        "participantsIncall": "{{number}} participants in this call"
     },
     "helpView": {
         "header": "Help center"

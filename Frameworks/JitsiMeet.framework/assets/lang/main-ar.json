@@ -50,7 +50,7 @@
         "fieldPlaceHolder": "اكتب رسالتك هنا",
         "messagebox": "اكتب رسالة",
         "messageTo": "رسالة خاصة إلى {{recipient}}",
-        "noMessagesMessage": "",
+        "noMessagesMessage": "لا يوجد رسائل في الاجتماع. ابدأ المحادثة من هنا",
         "nickname": {
             "popover": "اختر اسما مستعارًا",
             "title": "ادخل اسمًا مستعارًا لاستخدام المحادثة"
@@ -187,7 +187,7 @@
         "kickParticipantButton": "اطرده",
         "kickParticipantDialog": "هل أنت متأكد من أنك تريد طرد هذا المشارِك؟",
         "kickParticipantTitle": "أتريد طرد هذا المشارك؟",
-        "kickTitle": "",
+        "kickTitle": "لقد تم اخراجك من الاتصال",
         "liveStreaming": "بث مباشر",
         "liveStreamingDisabledForGuestTooltip": "",
         "liveStreamingDisabledTooltip": "البث المباشر معطّل.",
@@ -254,7 +254,7 @@
         "Share": "شارك",
         "shareVideoLinkError": "يرجى تقديم رابط يوتيوب صحيح.",
         "shareVideoTitle": "مشاركة فيديو",
-        "shareYourScreen": "",
+        "shareYourScreen": "شارك الشاشة",
         "shareYourScreenDisabled": "",
         "shareYourScreenDisabledForGuest": "",
         "startLiveStreaming": "ابدأ البث المباشر",
@@ -278,11 +278,11 @@
         "WaitingForHost": "",
         "Yes": "",
         "yourEntireScreen": "",
-        "teacherWillLaunch": "سيقوم المدرس بإطلاق البث المباشر قريبًا",
-        "remainingSessionTime": " تنتهي الجلسة في {{time}}",
-        "sessionTerminatedByTeacher": "تم إنهاء جلسة العمل من قبل المعلم",
-        "sessionEnded": "تم إنهاء جلسة العمل",
-        "sessionCancelled":"تم إلغاء جلسة العمل"
+        "teacherWillLaunch": "سيبدأ المدرس قريباَ في البث",
+        "remainingSessionTime": "الوقت المتبقي لإنتهاء المكالمة {time}",
+        "sessionTerminatedByTeacher": "تم انهاء المكالمة من قِبل المدرس",
+        "sessionEnded": "انتهت المحاثة",
+        "sessionCancelled": "تم الغاء المكالمة "
     },
     "dialOut": {
         "statusMessage": ""
@@ -351,8 +351,8 @@
         "supportMsg": "إذا استمر حدوث ذلك ، فتواصل مع"
     },
     "keyboardShortcuts": {
-        "focusLocal": "",
-        "focusRemote": "",
+        "focusLocal": "التركيز على الفيديو",
+        "focusRemote": "التركيز على فيديو مستخدم آخر",
         "fullScreen": "عرض أو الخروج من وضع ملء الشاشة",
         "keyboardShortcuts": "اختصارات لوحة المفاتيح",
         "localRecording": "",
@@ -362,8 +362,8 @@
         "showSpeakerStats": "اعرض إحصائيات المتحدث",
         "toggleChat": "فتح أو إغلاق المحادثة",
         "toggleFilmstrip": "",
-        "toggleScreensharing": "",
-        "toggleShortcuts": "",
+        "toggleScreensharing": "التبديل بين الكاميرا ومشاركة الشاشة",
+        "toggleShortcuts": "اظهار / اخفاء اختصارات لوحة المفاتيح",
         "videoMute": "شغّل أو عطّل الكاميرا",
         "videoQuality": "إدارة جودة المكالمات"
     },
@@ -457,7 +457,7 @@
         "startSilentDescription": "",
         "suboptimalBrowserWarning": "",
         "suboptimalExperienceTitle": "",
-        "unmute": "",
+        "unmute": "إعادة تشغيل امكانية التحدث",
         "newDeviceCameraTitle": "",
         "newDeviceAudioTitle": "",
         "newDeviceAction": ""
@@ -587,7 +587,7 @@
     "toolbar": {
         "accessibilityLabel": {
             "audioOnly": "",
-            "audioRoute": "",
+            "audioRoute": "اختر مصدر الصوت",
             "callQuality": "إدارة جودة الفيديو",
             "cc": "",
             "chat": "",
@@ -595,7 +595,7 @@
             "download": "قم بتنزيل تطبيقاتنا",
             "feedback": "",
             "fullScreen": "تبديل وضع الشاشة الكاملة",
-            "hangup": "",
+            "hangup": "مغادرة",
             "help": "مساعدة",
             "invite": "",
             "kick": "",
@@ -604,10 +604,10 @@
             "moreActions": "",
             "moreActionsMenu": "قائمة الإجراءات الإضافية",
             "moreOptions": "اعرض المزيد من الخيارات",
-            "mute": "",
+            "mute": "ايقاف / تشغيل المايكروفون",
             "muteEveryone": "اكتم صوت الجميع",
             "pip": "",
-            "privateMessage": "",
+            "privateMessage": "ارسل رسالة خاصة",
             "profile": "تحرير ملفك التعريفي",
             "raiseHand": "",
             "recording": "",
@@ -615,20 +615,20 @@
             "Settings": "إخفاء أو إظهار قائمة الإعدادات",
             "sharedvideo": "",
             "shareRoom": "",
-            "shareYourScreen": "",
+            "shareYourScreen": "شارك الشاشة",
             "shortcuts": "",
             "show": "",
             "speakerStats": "عرض / إخفاء إحصائيات المتحدّث",
-            "tileView": "",
-            "toggleCamera": "",
+            "tileView": "تقسيم عرض المشاركين",
+            "toggleCamera": "تبديل الكاميرا",
             "toggleFilmstrip": "",
-            "videomute": "",
+            "videomute": "بدء / ايقاف الكاميرا",
             "videoblur": ""
         },
         "addPeople": "",
-        "audioOnlyOff": "",
-        "audioOnlyOn": "",
-        "audioRoute": "",
+        "audioOnlyOff": "ايقاف وضع التشغيل في حالة الانترنت البطيء",
+        "audioOnlyOn": "تفعيل وضع التشغيل في حالة الانترنت البطيء",
+        "audioRoute": "اختر مصدر الصوت",
         "authenticate": "",
         "callQuality": "إدارة جودة الفيديو",
         "chat": "فتح / إغلاق المحادثة",
@@ -641,15 +641,15 @@
         "exitFullScreen": "الخروج من عرض ملء الشاشة",
         "exitTileView": "",
         "feedback": "",
-        "hangup": "",
+        "hangup": "مغادرة",
         "help": "مساعدة",
         "invite": "",
         "login": "",
         "logout": "الخروج",
-        "lowerYourHand": "",
+        "lowerYourHand": "انزل يدك",
         "moreActions": "المزيد من الإجراءات",
         "moreOptions": "خيارات أخرى",
-        "mute": "",
+        "mute": "كتم / تشغيل المايكروفون",
         "muteEveryone": "اكتم الجميع",
         "noAudioSignalTitle": "",
         "noAudioSignalDesc": "",
@@ -660,7 +660,7 @@
         "noisyAudioInputDesc": "",
         "openChat": "",
         "pip": "",
-        "privateMessage": "",
+        "privateMessage": "ارسل رسالة خاصة",
         "profile": "تحرير ملفك التعريفي",
         "raiseHand": "ارفع / اخفض يدك",
         "raiseYourHand": "ارفع يدك",
@@ -674,13 +674,13 @@
         "stopScreenSharing": "",
         "stopSubtitles": "",
         "stopSharedVideo": "وقف فيديو يوتيوب",
-        "talkWhileMutedPopup": "",
-        "tileViewToggle": "",
-        "toggleCamera": "",
-        "videomute": "",
+        "talkWhileMutedPopup": "هل تحاول التحدث؟ لقد تم كتم المايكروفون",
+        "tileViewToggle": "تقسيم عرض المشاركين",
+        "toggleCamera": "تبديل الكاميرا",
+        "videomute": "بدء / ايقاف الكاميرا",
         "startvideoblur": "تعتيم خلفيتي",
         "stopvideoblur": "إلغاء عتمة الخلفية",
-        "endSession": "هل أنت متأكد أنك تريد إنهاء الجلسة للجميع؟"
+        "endSession": "هل انت متأكد من انهاء المحاثة للجميع؟"
     },
     "transcribing": {
         "ccButtonTooltip": "",
@@ -719,19 +719,19 @@
     "videoStatus": {
         "audioOnly": "",
         "audioOnlyExpanded": "",
-        "callQuality": "",
+        "callQuality": "جودة الفيديو",
         "hd": "",
-        "hdTooltip": "",
+        "hdTooltip": "مشاهدة فيديو عالي الوضوح",
         "highDefinition": "عالية الوضوح",
         "labelTooiltipNoVideo": "",
         "labelTooltipAudioOnly": "",
         "ld": "",
-        "ldTooltip": "",
+        "ldTooltip": "مشاهدة فيديو منخفض الوضوح",
         "lowDefinition": "جودة منخفضة",
         "onlyAudioAvailable": "",
         "onlyAudioSupported": "",
         "sd": "",
-        "sdTooltip": "",
+        "sdTooltip": "مشاهدة فيديو معتدل الوضوح",
         "standardDefinition": "جودة قياسية"
     },
     "videothumbnail": {
@@ -740,11 +740,11 @@
         "flip": "",
         "kick": "",
         "moderator": "مشرف",
-        "mute": "",
+        "mute": "تم كتم صوت المشارك",
         "muted": "",
         "remoteControl": "",
         "show": "",
-        "videomute": ""
+        "videomute": "تم ايقاف الكاميرا من قِبل المشارك"
     },
     "welcomepage": {
         "accessibilityLabel": {
@@ -779,7 +779,8 @@
     },
     "lonelyMeetingExperience": {
         "button": "ادع أشخاصا آخرين",
-        "youAreAlone": "إنك المشترِك الوحيد في هذا الاجتماع"
+        "youAreAlone": "انت الشخص الوحيد في المحادثة",
+        "participantsIncall": "عدد المشاركين في هذه المكالمة : {{number}}"
     },
     "helpView": {
         "header": "مركز المساعدة"
