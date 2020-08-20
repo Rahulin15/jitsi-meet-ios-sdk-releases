@@ -211,8 +211,8 @@
         "muteEveryoneSelf": "أنت",
         "muteEveryoneStartMuted": "من الآن فصاعدًا سيبدأ الجميع مكتومي الصوت",
         "muteParticipantBody": "",
-        "muteParticipantButton": "اكتمه",
-        "muteParticipantDialog": "",
+        "muteParticipantButton": "كتم",
+        "muteParticipantDialog": "هل تريد بالتأكيد كتم هذا المشارك؟",
         "muteParticipantTitle": "أتريد كتم هذا المشارِك؟",
         "Ok": "موافق",
         "passwordLabel": "",
@@ -735,13 +735,13 @@
         "standardDefinition": "جودة قياسية"
     },
     "videothumbnail": {
-        "domute": "",
+        "domute": "كتم",
         "domuteOthers": "اكتم صوت الآخرين",
         "flip": "",
-        "kick": "",
+        "kick": "إزالة من استدعاء",
         "moderator": "مشرف",
         "mute": "تم كتم صوت المشارك",
-        "muted": "",
+        "muted": "تم كتم صوت المشارك",
         "remoteControl": "",
         "show": "",
         "videomute": "تم ايقاف الكاميرا من قِبل المشارك"
