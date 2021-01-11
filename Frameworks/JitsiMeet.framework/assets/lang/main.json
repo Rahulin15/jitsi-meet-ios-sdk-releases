@@ -306,7 +306,12 @@
         "WaitForHostMsgWOk": "The conference <b>{{room}}</b> has not yet started. If you are the host then please press Ok to authenticate. Otherwise, please wait for the host to arrive.",
         "WaitingForHost": "Waiting for the host ...",
         "Yes": "Yes",
-        "yourEntireScreen": "Your entire screen"
+        "yourEntireScreen": "Your entire screen",
+        "teacherWillLaunch": "Teacher will soon launch the live",
+        "remainingSessionTime": "Session will end in {{time}}",
+        "sessionTerminatedByTeacher": "Session ended by Teacher",
+        "sessionEnded": "Session ended",
+        "sessionCancelled": "Session cancelled"
     },
     "dialOut": {
         "statusMessage": "is now {{status}}"
@@ -762,7 +767,7 @@
         "videomute": "Start / Stop camera",
         "startvideoblur": "Blur my background",
         "stopvideoblur": "Disable background blur",
-        "endSession": "End Session For All"
+        "endSession": "Are you sure you want to end session for all ?"
     },
     "transcribing": {
         "ccButtonTooltip": "Start / Stop subtitles",
@@ -861,7 +866,8 @@
     },
     "lonelyMeetingExperience": {
         "button": "Invite others",
-        "youAreAlone": "You are the only one in the meeting"
+        "youAreAlone": "You are the only one in the meeting",
+        "participantsIncall": "{{number}} participants in this call"
     },
     "helpView": {
         "header": "Help center"
